@@ -4,7 +4,7 @@ Submitted by: **Danny Nguyen**
 
 This web app: **Displays a list of Vietnamese restaurants in Atlanta, GA, including details such as address, phone number, rating, and a link to the restaurant's menu. The app is built using React with Vite and showcases the restaurants in a responsive card format. Additionally, the app supports both light and dark modes with a toggle switch to improve user experience.**
 
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
