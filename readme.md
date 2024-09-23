@@ -1,10 +1,10 @@
-# Web Development Project 1 - _Vietnamese Restaurants in Atlanta_
+# Web Development Project 1 - *Vietnamese Restaurants in Atlanta*
 
 Submitted by: **Danny Nguyen**
 
 This web app: **Displays a list of Vietnamese restaurants in Atlanta, GA, including details such as address, phone number, rating, and a link to the restaurant's menu. The app is built using React with Vite and showcases the restaurants in a responsive card format. Additionally, the app supports both light and dark modes with a toggle switch to improve user experience.**
 
-Time spent: 5 hours spent in total
+Time spent: **X** hours spent in total
 
 ## Required Features
 
@@ -38,6 +38,10 @@ Here's a walkthrough of implemented required features:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d7230c15a53044cdb9e0e1aeded17098-e2f7097b30099044-full-play.gif">
     </a>
 </div>
+
+## Imgur Embed
+
+You can view the images for this project on Imgur by following [this link](https://imgur.com/a/1xc9zPR).
 
 ## Notes
 
